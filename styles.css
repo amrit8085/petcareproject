@@ -4,6 +4,7 @@ body {
 }
 
 header {
+    position: fixed; 
     background-color: #2cb018;
     text-align: center;
     padding-left: 10%;
@@ -46,6 +47,7 @@ img {
 }
 
 footer {
+    position: fixed; 
     background-color: #c7c404;
     padding: 10px;
     text-align: center;
